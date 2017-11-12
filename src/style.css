@@ -1,0 +1,47 @@
+h1, p {
+  font-family: Lato;
+}
+
+.layout{
+  border-right: 10px solid yellow;
+  height: 240px;
+  width:245px;
+}
+
+.button-option{
+  background: lightgray;
+  display: inline-block !important;
+  width: 60px;
+  height: 60px;  
+  font-size: 18px;
+  text-align: center;
+  align-items: center;  
+}
+
+.button-others{
+  background: skyblue;
+  display: inline-block !important;
+  width: 240px;
+  height: 48px;  
+  font-size: 18px;
+  text-align: center;
+  align-items: center;
+}
+
+.button-row{
+  width: 240px;
+}
+
+.screen-option{
+  width:240px;  
+  height: 30px;
+  border-bottom: 10px solid #ffffff;
+  border-top: 1px solid #ffffff;
+  font-size: 18px;
+  text-align: right;
+  border-right: 10px solid yellow;
+} 
+
+.button-equals{
+  width: 240px;
+}
